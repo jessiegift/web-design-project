@@ -1,0 +1,10 @@
+/*  styling for the navbar and layout */
+nav {
+    background-color:#5C8B7B ;
+    padding: 5px;
+	
+    text-align: center;
+	margin-top:auto;
+    margin-left:80px;
+	
+  }
